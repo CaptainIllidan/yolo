@@ -1,0 +1,5 @@
+classes = 1
+train = /home/unknown/yolo/guns_train.txt
+valid = /home/unknown/yolo/guns_test.txt
+names= /home/unknown/yolo/classes.names
+backup = /home/unknown/yolo/weights/
